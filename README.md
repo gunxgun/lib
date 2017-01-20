@@ -5,4 +5,4 @@
 
 ## License
 
-The lib is open-sourced software licensed under the LGPL-2.1 LICENSE.
+The lib is open-sourced software licensed under the LGPL-2.1.
